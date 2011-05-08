@@ -6,3 +6,6 @@ I really though a lot about what pins I use, but I had to use some of them so
 some units of the cpu won't be accessible if all hardware of the board is being used.
 
 My goal is to create a nice small (with PDIP it won't ever get really small) board which can be easily connected to some expansion board with additional hardware so I don't have to create a full board. I just solder some hardware pieces together and connect it to the board. Done!
+
+Don't wonder about the evallib and that I copied some devices. I use a CNC plotter to create this board and the software isn't able to process octal pads (But it can process round pads... Oo ).
+
