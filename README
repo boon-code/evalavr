@@ -2,7 +2,7 @@ This is going to be a nice eval board for atmega16/32 atmega644 and so on...
 It features a removeable text display, a rfm12 device (connected through jumpers)
 
 It should also give you access to all pins (hopefully this will work)
-I really though a lot about what pins I use, but I had to use some of them so 
+I really thought a lot about what pins I use, but I had to use some of them so 
 some units of the cpu won't be accessible if all hardware of the board is being used.
 
 My goal is to create a nice small (with PDIP it won't ever get really small) board which can be easily connected to some expansion board with additional hardware so I don't have to create a full board. I just solder some hardware pieces together and connect it to the board. Done!
